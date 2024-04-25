@@ -1,1 +1,1 @@
-# cp02_governanca_melhores_pr-ticas_em_ti
+# cp02_governanca_melhores_praticas_em_ti
